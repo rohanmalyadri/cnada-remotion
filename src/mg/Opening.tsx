@@ -401,7 +401,7 @@ export const ExtraBlock: React.FC<MG> = ({dur}) => {
             }}
           />
           <div style={{fontFamily: F.mono, fontSize: 22, color: '#7A6A1E', marginTop: 14, letterSpacing: '0.12em', opacity: b, width: 560}}>
-            + UP TO 200,000 · ONE-TIME · ALREADY IN CANADA · BY END-2027
+            + UP TO 200,000 · TIME-LIMITED · ALREADY IN CANADA · THROUGH 2027
           </div>
         </div>
       </div>

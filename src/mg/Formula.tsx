@@ -109,42 +109,46 @@ const STEPS = [
 export const StudyToPR: React.FC<MG> = ({dur}) => {
   const f = useCurrentFrame();
   const {fps} = useVideoConfig();
-  const gap = 420;
-  const per = Math.max(22, (dur - 70) / STEPS.length);
-  const cam = interpolate(f, STEPS.map((_, i) => 20 + i * per), STEPS.map((_, i) => -i * gap), {
+  const gap = 470;
+  const CW = 400;
+  const per = Math.max(22, (dur - 60) / STEPS.length);
+  // camera keeps the active card at x≈760 with the next two cards visible
+  const cam = interpolate(f, STEPS.map((_, i) => 16 + i * per), STEPS.map((_, i) => -i * gap), {
     extrapolateLeft: 'clamp',
     extrapolateRight: 'clamp',
     easing: E.quintInOut,
   });
-  const camEnd = p(f, dur - 50, dur - 10, E.quintInOut);
+  const camEnd = p(f, dur - 46, dur - 8, E.quintInOut);
   const total = (STEPS.length - 1) * gap;
+  const pullS = lerp(1.12, 0.55, camEnd);
+  const baseX = lerp(cam + 560, (1920 - (total + CW) * pullS) / 2 / pullS, camEnd);
   return (
     <Stage tone="white">
-      <AbsoluteFill style={{perspective: 2000}}>
-        <AbsoluteFill
-          style={{
-            transformStyle: 'preserve-3d',
-            transform: `translateX(${lerp(cam, -total / 2, camEnd) + 560}px) rotateX(${lerp(18, 6, camEnd)}deg) scale(${lerp(1.0, 0.52, camEnd)})`,
-            transformOrigin: `${total / 2}px 540px`,
-          }}
-        >
-          {/* track */}
-          <div style={{position: 'absolute', left: 0, top: 620, width: total + 20, height: 6, background: '#DCE2EA'}} />
-          <div style={{position: 'absolute', left: 0, top: 620, width: Math.max(0, -cam) + 10, height: 6, background: C.cobalt}} />
-          {STEPS.map((s, i) => {
-            const t0 = 20 + i * per - 12;
+      <div style={{position: 'absolute', left: 110, top: 80}}>
+        <Eyebrow text="THE STUDY-TO-PR FORMULA · AS IT WAS SOLD" />
+        <div style={{height: 14}} />
+        <MaskLine delay={4}>
+          <div style={{fontFamily: F.serif, fontSize: 72, color: C.ink}}>No lottery. Just a formula.</div>
+        </MaskLine>
+      </div>
+      <AbsoluteFill style={{perspective: 2200, top: 60}}>
+        <AbsoluteFill style={{transformStyle: 'preserve-3d', transform: `scale(${pullS}) translateX(${baseX}px) rotateX(${lerp(14, 4, camEnd)}deg)`, transformOrigin: '0px 560px'}}>
+          <div style={{position: 'absolute', left: CW / 2, top: 700, width: total, height: 8, background: '#DCE2EA'}} />
+          <div style={{position: 'absolute', left: CW / 2, top: 700, width: Math.min(total, Math.max(0, -cam)), height: 8, background: C.cobalt}} />
+          {STEPS.map((st, i) => {
+            const t0 = 16 + i * per - 10;
             const up = sp(f, fps, t0, {damping: 15, stiffness: 130});
             const active = f >= t0;
             return (
-              <div key={i} style={{position: 'absolute', left: i * gap - 170, top: 250}}>
+              <div key={i} style={{position: 'absolute', left: i * gap, top: 300}}>
                 <div
                   style={{
-                    width: 340,
-                    height: 300,
+                    width: CW,
+                    height: 330,
                     background: i === 5 ? C.cobalt : '#FFFFFF',
                     color: i === 5 ? '#fff' : C.ink,
                     boxShadow: '0 30px 60px rgba(10,20,40,0.22)',
-                    padding: 30,
+                    padding: 34,
                     boxSizing: 'border-box',
                     transformOrigin: '50% 100%',
                     transform: `rotateX(${(1 - up) * -24}deg) translateY(${(1 - up) * 40}px)`,
@@ -152,20 +156,21 @@ export const StudyToPR: React.FC<MG> = ({dur}) => {
                     filter: active ? 'none' : 'grayscale(1)',
                   }}
                 >
-                  <div style={{fontFamily: F.mono, fontSize: 20, letterSpacing: '0.2em', color: i === 5 ? C.note : C.cobalt}}>{String(i + 1).padStart(2, '0')} · {s.t}</div>
-                  <div style={{fontFamily: F.display, fontWeight: 800, fontSize: 44, lineHeight: 1.02, marginTop: 20}}>{s.k}</div>
-                  <div style={{fontFamily: F.mono, fontSize: 18, letterSpacing: '0.12em', marginTop: 16, color: i === 5 ? C.silver : '#6B7685'}}>{s.d}</div>
+                  <div style={{fontFamily: F.mono, fontSize: 22, letterSpacing: '0.18em', color: i === 5 ? C.note : C.cobalt}}>
+                    {String(i + 1).padStart(2, '0')} · {st.t}
+                  </div>
+                  <div style={{fontFamily: F.display, fontWeight: 800, fontSize: 46, lineHeight: 1.02, marginTop: 22, letterSpacing: '-0.01em'}}>{st.k}</div>
+                  <div style={{fontFamily: F.mono, fontSize: 19, letterSpacing: '0.1em', marginTop: 18, color: i === 5 ? C.silver : '#6B7685'}}>{st.d}</div>
                 </div>
-                <div style={{position: 'absolute', left: 170 - 14, top: 356, width: 28, height: 28, borderRadius: 14, background: active ? C.cobalt : '#DCE2EA', border: '5px solid #fff', boxShadow: '0 4px 10px rgba(0,0,0,0.15)'}} />
+                <div style={{position: 'absolute', left: CW / 2 - 16, top: 384, width: 32, height: 32, borderRadius: 16, background: active ? C.cobalt : '#DCE2EA', border: '6px solid #fff', boxShadow: '0 4px 10px rgba(0,0,0,0.15)'}} />
               </div>
             );
           })}
-          {/* travelling document token */}
           <div
             style={{
               position: 'absolute',
-              left: -cam - 60,
-              top: 690,
+              left: Math.min(total, -cam) + CW / 2 - 60,
+              top: 760,
               width: 120,
               height: 160,
               background: C.midnight,
@@ -179,16 +184,14 @@ export const StudyToPR: React.FC<MG> = ({dur}) => {
               fontSize: 16,
               letterSpacing: '0.1em',
               transform: `rotate(${Math.sin(f / 9) * 3}deg)`,
+              opacity: 1 - camEnd,
             }}
           >
             PASSPORT
           </div>
         </AbsoluteFill>
       </AbsoluteFill>
-      <div style={{position: 'absolute', left: 110, top: 90}}>
-        <Eyebrow text="THE STUDY-TO-PR FORMULA · AS IT WAS SOLD" />
-      </div>
-      <div style={{position: 'absolute', left: 110, bottom: 70, fontFamily: F.mono, fontSize: 20, color: '#6B7685', letterSpacing: '0.06em', opacity: p(f, dur - 60, dur - 40)}}>
+      <div style={{position: 'absolute', left: 110, bottom: 60, fontFamily: F.mono, fontSize: 20, color: '#6B7685', letterSpacing: '0.06em', opacity: p(f, dur - 60, dur - 40)}}>
         A COMMON PATH, NEVER A GUARANTEE · EVERY STEP DEPENDED ON THE RULES AND ELIGIBILITY IN FORCE
       </div>
     </Stage>
