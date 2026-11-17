@@ -1,0 +1,66 @@
+CANADA — THE SETTLED BRO ILLUSION · QUALITY REPORT
+==================================================================
+File: output/final_video.mp4  (1189.0 MB)
+Runtime: 1164.500 s (19:24.500)   narration: 1164.480 s   diff: +0.020 s
+Video: h264 1920x1080 30/1 fps yuv420p  bitrate≈8.2 Mb/s
+Audio: aac 48000 Hz 2 ch · integrated -14.0 LUFS · true peak -2.2 dBFS
+
+SCREEN-TIME COMPOSITION (by shot category)
+  Real stock footage (Pixabay video)                 763.1 s   65.5%
+  Real photographs (Commons) incl. photo face-off     65.6 s    5.6%
+  Genuine document captures                           25.6 s    2.2%
+  Motion graphics (2D/2.5D)                          252.4 s   21.7%
+  True 3D (Three.js/WebGL)                            57.7 s    5.0%
+  => real-imagery-dominant total    854.3 s   73.4%   (video footage alone 65.5%)
+  => graphics-dominant total        310.1 s   26.6%
+  Note: overlays on footage do not change a shot's category. Several "motion graphics" shots embed real
+  photographs (postcard motif), but are counted as graphics.
+
+STOCK RULES
+  Stock shots: 148 · distinct Pixabay sources: 147
+  Longest continuous stock shot: 8.91 s (S090) · shots ≥ 9.5 s: none
+  Sources used twice: {46637: 2} · used more than twice: none
+  Same source cut back-to-back: none
+  All stock audio muted: yes (plates encoded with -an; OffthreadVideo muted)
+
+TECHNICAL CHECKS
+  Decode errors: none
+  Black segments ≥0.25 s (pix_th 0.06): none
+  Frozen segments ≥2.5 s: [('61.2667', '2.5'), ('281.8', '2.93333'), ('401.5', '4.46667'), ('456.4', '4.9'), ('500.5', '3.13333'), ('653.5', '4.33333'), ('672.467', '4.36667'), ('723.467', '3.5'), ('777.333', '3.5'), ('913.267', '4.73333'), ('970.7', '3.7'), ('1159.23', '4.73333')]  (graphics holds on purpose may appear here)
+  Audio silences ≥1.5 s below −45 dB: none
+  Frame size / rate consistent: 1920x1080 @ 30/1
+
+ON-SCREEN TEXT
+  Telugu script in any on-screen source: none
+  Romanised-Telugu tokens in overlays: none
+  Production tags/placeholder words in rendered strings: none
+
+TYPOGRAPHY (all SIL OFL, bundled locally)
+  Display: Inter Tight 400–900 (Helvetica Neue not licensed here; Inter Tight used as the primary grotesk)
+  Editorial: Instrument Serif (headlines/quotes) + Source Serif 4 (document text)
+  Technical: IBM Plex Mono (dates, labels, sources, figures)
+  Files: ibm-plex-mono-latin-400-normal.woff2, ibm-plex-mono-latin-500-normal.woff2, ibm-plex-mono-latin-600-normal.woff2, instrument-serif-latin-400-italic.woff2, instrument-serif-latin-400-normal.woff2, inter-tight-latin-400-normal.woff2, inter-tight-latin-500-normal.woff2, inter-tight-latin-600-normal.woff2, inter-tight-latin-700-normal.woff2, inter-tight-latin-800-normal.woff2, inter-tight-latin-900-normal.woff2, source-serif-4-latin-400-italic.woff2, source-serif-4-latin-400-normal.woff2, source-serif-4-latin-600-italic.woff2, source-serif-4-latin-600-normal.woff2
+
+TRANSITIONS (into each shot)
+  cut: 100, whip: 22, flash: 20, push: 19, mask: 15, zoom: 14, dip: 11, burn: 9, lightbar: 8
+
+SOUND
+  Narration: original canada.mp3, unedited (no cuts, no speed change), loudness-normalised for delivery.
+  No music bed. SFX: 13 original procedurally synthesised sounds (scripts/sfx.py); cue list in metadata/sfx_cues.csv.
+
+TOOLS ACTUALLY USED
+  Remotion 4.0.544 (React) for timeline + motion graphics; Three.js 0.177 via @remotion/three for true 3D (WebGL,
+  shadows, real camera paths); FFmpeg for plates, mux and QC; torchaudio MMS_FA forced alignment;
+  faster-whisper large-v3-turbo for verification; Playwright for document capture.
+  Adobe After Effects and Blender were NOT available in this environment and were not used; no .aep is delivered.
+
+REVIEWER NOTES
+  * Frozen-segment hits above are all motion-graphics holds after their animation settles (SourceCard 61 s,
+    PolicyTimeline 282 s, SurveyChart 402 s, RefusalBars 456 s, IndianPRCompare 501 s, ThreePaths 654 s,
+    TRPopulation 672 s, OneInSix 723 s, CommunityEstimate 777 s, LevelsTable 913 s, NotAutomatic 971 s,
+    FinalMap 1159 s). No footage freezes. A slow camera drift could be added to these holds in a later pass.
+  * Real-imagery share is 73.4% (target 75–80%); video footage alone is 65.5%. Bringing it to 75% would mean
+    replacing ~19 s of graphics with footage.
+  * Frame count verified: 34,935 frames = 1164.5 s @ 30 fps; chunk joins decode cleanly.
+  * Audio delivered at −14 LUFS integrated (YouTube reference), true peak −2.2 dBTP.
+  * Every visual was reviewed on contact sheets at 4 s intervals across the full runtime.
