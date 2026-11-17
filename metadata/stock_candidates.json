@@ -13005,21 +13005,21 @@
   ],
   "en": "Irony: some Indians settled years ago now say \"cut immigration\" \u2014 closing the door opened for them.",
   "pick": {
-   "id": 152798,
-   "tags": "couple, lovers, hands, love, street, walking",
-   "duration": 27,
-   "user": "ghasoub",
-   "page": "https://pixabay.com/videos/id-152798/",
-   "rendition": "large",
-   "url": "https://cdn.pixabay.com/video/2023/03/01/152798-803733100_large.mp4",
+   "id": 125430,
+   "tags": "man, adult, beard, elderly, face, glasses, beautiful wallpaper, caucasian, closeup, grandfather, hair, happy, human, lifestyle, male, mature, old, pensioner, people, person, portrait, background",
+   "duration": 11,
+   "user": "romyrwood",
+   "page": "https://pixabay.com/videos/id-125430/",
+   "rendition": "small",
+   "url": "https://cdn.pixabay.com/video/2022/07/25/125430-733383712_small.mp4",
    "width": 1920,
    "height": 1080,
-   "size": 13095081,
-   "thumb": "https://cdn.pixabay.com/video/2023/03/01/152798-803733100_large.jpg",
-   "downloads": 293985,
-   "likes": 2905,
-   "query": "older couple walking",
-   "score": 2.711
+   "size": 6601517,
+   "thumb": "https://cdn.pixabay.com/video/2022/07/25/125430-733383712_small.jpg",
+   "downloads": 36450,
+   "likes": 258,
+   "query": "grandfather",
+   "score": 0
   },
   "alts": [
    {
@@ -13038,6 +13038,23 @@
     "likes": 87,
     "query": "older indian man",
     "score": 3.011
+   },
+   {
+    "id": 152798,
+    "tags": "couple, lovers, hands, love, street, walking",
+    "duration": 27,
+    "user": "ghasoub",
+    "page": "https://pixabay.com/videos/id-152798/",
+    "rendition": "large",
+    "url": "https://cdn.pixabay.com/video/2023/03/01/152798-803733100_large.mp4",
+    "width": 1920,
+    "height": 1080,
+    "size": 13095081,
+    "thumb": "https://cdn.pixabay.com/video/2023/03/01/152798-803733100_large.jpg",
+    "downloads": 293985,
+    "likes": 2905,
+    "query": "older couple walking",
+    "score": 2.711
    },
    {
     "id": 177254,
@@ -13089,23 +13106,6 @@
     "likes": 137,
     "query": "older couple walking",
     "score": 2.455
-   },
-   {
-    "id": 126837,
-    "tags": "funchal, madeira, portugal, city, people, daylight, buildings, urban, trees, couple, woman, face, resting, walking",
-    "duration": 23,
-    "user": "Matthias_Groeneveld",
-    "page": "https://pixabay.com/videos/id-126837/",
-    "rendition": "large",
-    "url": "https://cdn.pixabay.com/video/2022/08/05/126837-737020173_large.mp4",
-    "width": 1920,
-    "height": 1080,
-    "size": 16376020,
-    "thumb": "https://cdn.pixabay.com/video/2022/08/05/126837-737020173_large.jpg",
-    "downloads": 6687,
-    "likes": 85,
-    "query": "older couple walking",
-    "score": 2.438
    }
   ]
  },
@@ -16907,7 +16907,7 @@
  "S216": {
   "shot": "S216",
   "start": 1152.108,
-  "dur": 5.194,
+  "dur": 4.082,
   "q": [
    "sharing phone message",
    "phone message typing",
@@ -16929,7 +16929,7 @@
    "downloads": 13110,
    "likes": 134,
    "query": "phone message typing",
-   "score": 3.73
+   "score": 3.736
   },
   "alts": [
    {
@@ -16964,7 +16964,24 @@
     "downloads": 9,
     "likes": 0,
     "query": "phone message typing",
-    "score": 3.151
+    "score": 3.184
+   },
+   {
+    "id": 9490,
+    "tags": "mobile phone, message, boy, man, human, sms, young, happy, lifestyle, smartphone, technology, letter, the internet, dial, communication, watch, business, network, street, wireless, chat, reading",
+    "duration": 9,
+    "user": "chayka1270",
+    "page": "https://pixabay.com/videos/id-9490/",
+    "rendition": "large",
+    "url": "https://cdn.pixabay.com/video/2017/06/02/9490-220088148_large.mp4",
+    "width": 1920,
+    "height": 1080,
+    "size": 5296420,
+    "thumb": "https://cdn.pixabay.com/video/2017/06/02/9490-220088148_large.jpg",
+    "downloads": 205080,
+    "likes": 727,
+    "query": "sharing phone message",
+    "score": 3.003
    },
    {
     "id": 57315,
@@ -16984,23 +17001,6 @@
     "score": 2.988
    },
    {
-    "id": 9490,
-    "tags": "mobile phone, message, boy, man, human, sms, young, happy, lifestyle, smartphone, technology, letter, the internet, dial, communication, watch, business, network, street, wireless, chat, reading",
-    "duration": 9,
-    "user": "chayka1270",
-    "page": "https://pixabay.com/videos/id-9490/",
-    "rendition": "large",
-    "url": "https://cdn.pixabay.com/video/2017/06/02/9490-220088148_large.mp4",
-    "width": 1920,
-    "height": 1080,
-    "size": 5296420,
-    "thumb": "https://cdn.pixabay.com/video/2017/06/02/9490-220088148_large.jpg",
-    "downloads": 205080,
-    "likes": 727,
-    "query": "sharing phone message",
-    "score": 2.97
-   },
-   {
     "id": 168343,
     "tags": "message, smartphone, mobile, lifestyle, technology, phone, communication, connection, gadget",
     "duration": 11,
@@ -17015,122 +17015,7 @@
     "downloads": 20691,
     "likes": 102,
     "query": "sharing phone message",
-    "score": 2.863
-   }
-  ]
- },
- "S217": {
-  "shot": "S217",
-  "start": 1157.302,
-  "dur": 5.193,
-  "q": [
-   "sharing phone message",
-   "phone message typing",
-   "hands phone typing"
-  ],
-  "en": "Comment your answers; share this video with friends or family planning to go abroad.",
-  "pick": {
-   "id": 348444,
-   "tags": "text, business, technology, communication, message, phone, internet, mobile, people, smartphone, person, white, texting, caucasian, design, holding, typing, lifestyle, man, information, computer, smart, hand, adult",
-   "duration": 25,
-   "user": "JonathanSlatterMusic",
-   "page": "https://pixabay.com/videos/id-348444/",
-   "rendition": "small",
-   "url": "https://cdn.pixabay.com/video/2026/04/23/348444_small.mp4",
-   "width": 1920,
-   "height": 1080,
-   "size": 7592525,
-   "thumb": "https://cdn.pixabay.com/video/2026/04/23/348444_small.jpg",
-   "downloads": 446,
-   "likes": 2,
-   "query": "phone message typing",
-   "score": 3.492
-  },
-  "alts": [
-   {
-    "id": 169446,
-    "tags": "smartphone, keyboard, typing, message, messenger, communication, mobile phone, cellphone, phone, hand, finger, online, social media, internet, app, screen",
-    "duration": 16,
-    "user": "magicmore",
-    "page": "https://pixabay.com/videos/id-169446/",
-    "rendition": "small",
-    "url": "https://cdn.pixabay.com/video/2023/06/30/169446-841382825_small.mp4",
-    "width": 2048,
-    "height": 1080,
-    "size": 8281267,
-    "thumb": "https://cdn.pixabay.com/video/2023/06/30/169446-841382825_small.jpg",
-    "downloads": 13110,
-    "likes": 134,
-    "query": "phone message typing",
-    "score": 3.73
-   },
-   {
-    "id": 387303,
-    "tags": "smartphone, texting, hands, mobile phone, typing, text message, messaging, communication, phone, close up, mobile communication, smartphone usage, digital communication, chatting, technology, holding phone, sending message, social media, mobile device, sms, wireless, digital lifestyle, communication technology, touch screen",
-    "duration": 14,
-    "user": "raitton",
-    "page": "https://pixabay.com/videos/id-387303/",
-    "rendition": "small",
-    "url": "https://cdn.pixabay.com/video/2026/11/05/387303_small.mp4",
-    "width": 1920,
-    "height": 1080,
-    "size": 3236963,
-    "thumb": "https://cdn.pixabay.com/video/2026/11/05/387303_small.jpg",
-    "downloads": 9,
-    "likes": 0,
-    "query": "phone message typing",
-    "score": 3.151
-   },
-   {
-    "id": 57315,
-    "tags": "woman, phone, talk, walk, contact, travel, music, landscape, marine, beach, ocean, wave, sunset, solar, sunny, dialogue, discussion, people, network, message, link, social, share, conversation",
-    "duration": 22,
-    "user": "Engin_Akyurt",
-    "page": "https://pixabay.com/videos/id-57315/",
-    "rendition": "small",
-    "url": "https://cdn.pixabay.com/video/2020/11/25/57315-484331186_small.mp4",
-    "width": 1920,
-    "height": 1080,
-    "size": 15665136,
-    "thumb": "https://cdn.pixabay.com/video/2020/11/25/57315-484331186_small.jpg",
-    "downloads": 13429,
-    "likes": 140,
-    "query": "sharing phone message",
-    "score": 2.988
-   },
-   {
-    "id": 9490,
-    "tags": "mobile phone, message, boy, man, human, sms, young, happy, lifestyle, smartphone, technology, letter, the internet, dial, communication, watch, business, network, street, wireless, chat, reading",
-    "duration": 9,
-    "user": "chayka1270",
-    "page": "https://pixabay.com/videos/id-9490/",
-    "rendition": "large",
-    "url": "https://cdn.pixabay.com/video/2017/06/02/9490-220088148_large.mp4",
-    "width": 1920,
-    "height": 1080,
-    "size": 5296420,
-    "thumb": "https://cdn.pixabay.com/video/2017/06/02/9490-220088148_large.jpg",
-    "downloads": 205080,
-    "likes": 727,
-    "query": "sharing phone message",
-    "score": 2.97
-   },
-   {
-    "id": 168343,
-    "tags": "message, smartphone, mobile, lifestyle, technology, phone, communication, connection, gadget",
-    "duration": 11,
-    "user": "Amorn_mimi",
-    "page": "https://pixabay.com/videos/id-168343/",
-    "rendition": "small",
-    "url": "https://cdn.pixabay.com/video/2023/06/22/168343-838892838_small.mp4",
-    "width": 1920,
-    "height": 1080,
-    "size": 4394547,
-    "thumb": "https://cdn.pixabay.com/video/2023/06/22/168343-838892838_small.jpg",
-    "downloads": 20691,
-    "likes": 102,
-    "query": "sharing phone message",
-    "score": 2.864
+    "score": 2.897
    }
   ]
  }

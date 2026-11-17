@@ -13,3 +13,5 @@ __pycache__/
 output/mix.wav
 assets/stock/
 public/stock/
+output/chunks_old/
+output/**/*.mp4

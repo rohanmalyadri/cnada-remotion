@@ -63,6 +63,9 @@ def main():
         tin = 0.6 + slack * (0.3 if k == 0 else 0.85)
         if luma(fn, tin) < 12:  # avoid starting on a black frame
             tin = 0.6 + slack * 0.5
+        INP = json.load(open(f'{ROOT}/metadata/inpoint_overrides.json')) if os.path.exists(f'{ROOT}/metadata/inpoint_overrides.json') else {}
+        if sid in INP:
+            tin = INP[sid]
         uses[p['id']] = k + 1
         usage[sid] = dict(shot=sid, pixabay_id=p['id'], page=p['page'], user=p['user'], tags=p['tags'], src_duration=round(D, 2),
                           src_res=f'{w}x{h}', in_point=round(tin, 2), out_point=round(tin + v['dur'], 2), used_seconds=v['dur'],
