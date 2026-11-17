@@ -1,0 +1,15 @@
+.env
+node_modules/
+assets/stock/
+assets/stock_proc/
+assets/generated_video/
+output/*.mp4
+output/chunks/
+out/
+*.wav
+.cache/
+__pycache__/
+!assets/sound_effects/*.wav
+output/mix.wav
+assets/stock/
+public/stock/

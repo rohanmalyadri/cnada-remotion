@@ -1,0 +1,17 @@
+assets/web_images|Mark Carney 2025|Mark Carney in 2025.png|carney_2025
+assets/web_images|Justin Trudeau 2023|Justin Trudeau in May 2023|trudeau_2023
+assets/web_images|Pierre Poilievre|Pierre Poilievre Holodomor 2022 1|poilievre
+assets/web_images|Hardeep Singh Nijjar|Hardeep Singh Nijjar in 2020|nijjar_2020
+assets/web_images|G7 Kananaskis 2025 leaders|G7 Kananaskis Summit – Day 2|g7_kananaskis_2025
+assets/web_images|Narendra Modi Mark Carney|Prime Minister of Bharat, Shri Narendra Damodardas Modi meets the Prime Minister of C|modi_carney_2026
+assets/web_images|Narendra Modi Mark Carney G7 2025|Prime Minister of Bharat, Shri Narendra Damodardas Modi with the Prime Minister of Ca|modi_carney_g7_2025
+assets/web_images|Surrey British Columbia city centre|Surrey City Centre (2026)|surrey_city_centre_2026
+assets/web_images|Surrey British Columbia city centre|Surrey City Centre North|surrey_city_centre_north
+assets/web_images|Wasaga Beach Ontario|Wasaga Beach One 2024|wasaga_beach_2024
+assets/web_images|Ameerpet Hyderabad|Ameerpet area of Hyderabad in Telengana 02|ameerpet_02
+assets/web_images|Ameerpet Hyderabad|Images from Ameerpet, Hyderabad 06|ameerpet_06
+assets/historical|Komagata Maru|Komagata Maru incident VPL 6224|komagata_vpl6224
+assets/historical|Komagata Maru|Komagata Maru incident VPL 130|komagata_vpl130
+assets/historical|Komagata Maru Vancouver 1914 Sikh passengers|Komagata Maru incident VPL 13158|komagata_vpl13158
+assets/historical|Komagata Maru Vancouver 1914 Sikh passengers|The S.S. Komagata Maru with passengers on decks, July 1914|komagata_decks_1914
+assets/web_images|Parliament Hill Ottawa Centre Block Peace Tower|Centre Block|parliament_hill

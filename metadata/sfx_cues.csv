@@ -1,0 +1,156 @@
+time_s,asset,family,level_dbfs,reason
+4.833,whoosh_b,whoosh,-27,whip into S001
+8.733,whoosh_c,whoosh,-27,zoom into S002
+9.583,paper_a,paper,-24,photo drops
+9.783,paper_a,paper,-24,photo drops
+9.983,paper_a,paper,-24,photo drops
+10.183,paper_a,paper,-24,photo drops
+10.383,paper_a,paper,-24,photo drops
+25.780,click,click,-27,exposure flash
+28.133,whoosh_b,whoosh,-27,whip into S007
+29.433,paper_a,paper,-24,documents land
+31.067,tear,tear,-21,postcard tears
+35.147,click,click,-27,exposure flash
+35.217,shutter,shutter,-26,photograph lands
+43.600,whoosh_b,whoosh,-27,zoom into S010
+47.333,whoosh_c,whoosh,-27,whip into S011
+54.947,click,click,-27,exposure flash
+59.667,whoosh_b,whoosh,-27,push into S013
+63.567,whoosh_c,whoosh,-27,mask into S014
+66.500,tear,tear,-21,glass crack
+67.947,whoosh_soft,whoosh,-27,lightbar into S015
+70.433,riser,riser,-23,Nov 5 announcement
+71.633,whoosh_c,whoosh,-27,push into S017
+72.233,hit,hit,-19,Nov 5 announcement
+81.667,whoosh_b,whoosh,-27,whip into S019
+85.767,thud,thud,-20,door shuts
+86.047,whoosh_soft,whoosh,-27,lightbar into S020
+94.167,whoosh_a,whoosh,-27,push into S021
+99.600,whoosh_b,whoosh,-27,whip into S022
+115.913,click,click,-27,exposure flash
+121.133,whoosh_b,whoosh,-27,push into S025
+124.733,whoosh_c,whoosh,-27,whip into S026
+137.767,riser,riser,-23,chapter turn S029
+139.567,hit,hit,-19,chapter S029
+143.880,click,click,-27,exposure flash
+150.300,whoosh_b,whoosh,-27,whip into S031
+159.233,whoosh_a,whoosh,-27,push into S033
+176.647,click,click,-27,exposure flash
+179.600,whoosh_b,whoosh,-27,push into S037
+185.100,whoosh_c,whoosh,-27,mask into S038
+227.967,whoosh_c,whoosh,-27,zoom into S044
+233.533,whoosh_a,whoosh,-27,push into S045
+234.183,shutter,shutter,-26,photograph lands
+243.100,whoosh_c,whoosh,-27,whip into S047
+244.267,thud,thud,-20,loan block lands
+244.667,thud,thud,-20,loan block lands
+245.067,thud,thud,-20,loan block lands
+247.733,whoosh_a,whoosh,-27,push into S048
+259.900,whoosh_c,whoosh,-27,zoom into S050
+261.833,tear,tear,-21,formula torn
+264.900,whoosh_a,whoosh,-27,whip into S051
+265.933,riser,riser,-23,chapter turn S052
+267.733,hit,hit,-19,chapter S052
+270.347,click,click,-27,exposure flash
+270.417,shutter,shutter,-26,photograph lands
+277.733,whoosh_a,whoosh,-27,zoom into S054
+288.113,whoosh_soft,whoosh,-27,lightbar into S055
+316.000,whoosh_c,whoosh,-27,whip into S059
+321.580,whoosh_soft,whoosh,-27,lightbar into S060
+329.167,whoosh_b,whoosh,-27,push into S061
+343.500,whoosh_b,whoosh,-27,mask into S064
+346.100,riser,riser,-23,chapter turn S065
+347.900,hit,hit,-19,chapter S065
+351.980,click,click,-27,exposure flash
+373.933,whoosh_b,whoosh,-27,zoom into S070
+374.683,paper_b,paper,-24,document slides in
+382.367,whoosh_c,whoosh,-27,mask into S071
+399.233,whoosh_c,whoosh,-27,zoom into S074
+405.713,whoosh_soft,whoosh,-27,lightbar into S075
+417.980,click,click,-27,exposure flash
+443.200,whoosh_c,whoosh,-27,whip into S083
+444.800,thud,thud,-20,stamp
+453.967,whoosh_b,whoosh,-27,push into S085
+460.967,whoosh_c,whoosh,-27,whip into S086
+473.900,whoosh_b,whoosh,-27,mask into S088
+484.780,click,click,-27,exposure flash
+491.900,riser,riser,-23,chapter turn S091
+493.700,hit,hit,-19,chapter S091
+497.500,whoosh_c,whoosh,-27,mask into S092
+516.067,whoosh_c,whoosh,-27,whip into S095
+521.067,whoosh_a,whoosh,-27,mask into S096
+549.333,whoosh_c,whoosh,-27,push into S101
+568.347,click,click,-27,exposure flash
+568.417,shutter,shutter,-26,photograph lands
+572.767,whoosh_a,whoosh,-27,push into S105
+577.767,whoosh_b,whoosh,-27,whip into S106
+584.780,click,click,-27,exposure flash
+584.850,shutter,shutter,-26,photograph lands
+588.567,whoosh_a,whoosh,-27,zoom into S108
+589.217,shutter,shutter,-26,photograph lands
+593.850,shutter,shutter,-26,photograph lands
+614.700,riser,riser,-23,chapter turn S113
+616.500,hit,hit,-19,chapter S113
+618.980,click,click,-27,exposure flash
+629.567,whoosh_c,whoosh,-27,mask into S116
+651.200,whoosh_c,whoosh,-27,whip into S119
+657.580,whoosh_soft,whoosh,-27,lightbar into S120
+669.600,whoosh_c,whoosh,-27,zoom into S122
+694.033,whoosh_a,whoosh,-27,zoom into S126
+694.683,shutter,shutter,-26,photograph lands
+703.033,riser,riser,-23,chapter turn S128
+704.833,hit,hit,-19,chapter S128
+706.567,whoosh_a,whoosh,-27,push into S129
+709.247,whoosh_soft,whoosh,-27,lightbar into S130
+721.233,whoosh_a,whoosh,-27,mask into S132
+749.733,whoosh_a,whoosh,-27,zoom into S138
+774.733,whoosh_c,whoosh,-27,whip into S143
+792.667,whoosh_c,whoosh,-27,zoom into S146
+807.133,riser,riser,-23,chapter turn S149
+808.933,hit,hit,-19,chapter S149
+811.747,click,click,-27,exposure flash
+818.000,whoosh_c,whoosh,-27,mask into S152
+818.750,paper_b,paper,-24,document slides in
+828.680,click,click,-27,exposure flash
+828.750,shutter,shutter,-26,photograph lands
+831.800,whoosh_c,whoosh,-27,whip into S155
+833.000,thud,thud,-20,stamp UNVERIFIED
+835.333,whoosh_a,whoosh,-27,push into S156
+852.683,shutter,shutter,-26,photograph lands
+857.813,click,click,-27,exposure flash
+857.883,shutter,shutter,-26,photograph lands
+898.333,whoosh_b,whoosh,-27,push into S169
+902.367,riser,riser,-23,chapter turn S170
+904.167,hit,hit,-19,chapter S170
+906.267,whoosh_a,whoosh,-27,whip into S171
+907.017,paper_b,paper,-24,document slides in
+911.333,whoosh_b,whoosh,-27,mask into S172
+917.700,whoosh_c,whoosh,-27,zoom into S173
+918.400,whoosh_soft,whoosh,-27,door opens
+921.300,hit,hit,-19,"200,000 split reveal"
+958.867,whoosh_a,whoosh,-27,mask into S180
+964.367,whoosh_b,whoosh,-27,whip into S181
+968.167,whoosh_c,whoosh,-27,zoom into S182
+970.300,thud,thud,-20,stamp NOT AUTOMATIC
+983.947,click,click,-27,exposure flash
+994.767,riser,riser,-23,chapter turn S187
+996.567,hit,hit,-19,chapter S187
+997.400,whoosh_c,whoosh,-27,mask into S188
+999.667,pop,pop,-27,note pops
+999.933,pop,pop,-27,note pops
+1000.200,pop,pop,-27,note pops
+1000.467,pop,pop,-27,note pops
+1000.733,pop,pop,-27,note pops
+1022.247,click,click,-27,exposure flash
+1040.367,whoosh_a,whoosh,-27,whip into S195
+1046.267,whoosh_b,whoosh,-27,mask into S196
+1053.367,whoosh_c,whoosh,-27,push into S197
+1064.833,whoosh_b,whoosh,-27,whip into S199
+1069.713,whoosh_soft,whoosh,-27,lightbar into S200
+1078.267,whoosh_a,whoosh,-27,push into S201
+1096.513,click,click,-27,exposure flash
+1099.900,whoosh_b,whoosh,-27,push into S205
+1103.700,whoosh_c,whoosh,-27,whip into S206
+1111.333,whoosh_b,whoosh,-27,mask into S208
+1120.680,click,click,-27,exposure flash
+1155.600,whoosh_b,whoosh,-27,push into S217
