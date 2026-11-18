@@ -1,0 +1,39 @@
+{
+  "name": "canada-settled-bro-illusion",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CANADA - The Settled Bro Illusion: narration-synchronised documentary built with Remotion + Three.js",
+  "scripts": {
+    "studio": "remotion studio",
+    "render": "remotion render Documentary output/final_video.mp4"
+  },
+  "dependencies": {
+    "@fontsource/ibm-plex-mono": "^5.1.0",
+    "@fontsource/instrument-serif": "^5.1.0",
+    "@fontsource/inter-tight": "^5.1.0",
+    "@fontsource/source-serif-4": "^5.1.0",
+    "@react-three/fiber": "^9.1.0",
+    "@remotion/cli": "4.0.544",
+    "@remotion/fonts": "^4.0.544",
+    "@remotion/media-utils": "4.0.544",
+    "@remotion/noise": "4.0.544",
+    "@remotion/paths": "4.0.544",
+    "@remotion/shapes": "4.0.544",
+    "@remotion/three": "4.0.544",
+    "@remotion/transitions": "^4.0.544",
+    "d3-geo": "^3.1.1",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "remotion": "4.0.544",
+    "three": "0.177.0",
+    "topojson-client": "^3.1.0",
+    "world-atlas": "^2.0.2"
+  },
+  "devDependencies": {
+    "@types/d3-geo": "^3.1.0",
+    "@types/react": "^19.0.0",
+    "@types/three": "^0.177.0",
+    "@types/topojson-client": "^3.1.5",
+    "typescript": "^5.6.0"
+  }
+}

@@ -1,0 +1,74 @@
+{
+ "status_photo": {
+  "file": "public/photos/status_photo.jpg",
+  "pixabay_id": 2662030,
+  "page": "https://pixabay.com/photos/canada-toronto-tram-street-urban-2662030/",
+  "user": "AndyLeungHK",
+  "tags": "canada, toronto, tram, street, urban, public, city, traffic, streetcar, train, transport, transportation, travel, road, ontario, rail, vehicle, canadian, electric, downtown, cable, cityscape, people, america, trolley, tramway, car, outdoors, transit, symbol, red, day, car wallpapers, railway, metal, north, track",
+  "license": "Pixabay Content License"
+ },
+ "skyline_cn": {
+  "file": "public/photos/skyline_cn.jpg",
+  "pixabay_id": 6707515,
+  "page": "https://pixabay.com/photos/toronto-ontario-city-canada-lake-6707515/",
+  "user": "ParvizPhotography",
+  "tags": "toronto, ontario, city, canada, lake, cityscape, cn tower, landmark, skyline, nature, skyscrapers, tower, buildings, urban, winter",
+  "license": "Pixabay Content License"
+ },
+ "coffee_snow": {
+  "file": "public/photos/coffee_snow.jpg",
+  "pixabay_id": 624440,
+  "page": "https://pixabay.com/photos/valentines-day-heart-cup-coffee-624440/",
+  "user": "JillWellington",
+  "tags": "valentine's day, heart, cup, coffee, coffee cup, caffeine, hot coffee, nature, hot drink, hot beverage, heart shape, valentine, love, heart mug, snow, winter, steaming cup, romantic",
+  "license": "Pixabay Content License"
+ },
+ "friends_selfie": {
+  "file": "public/photos/friends_selfie.jpg",
+  "pixabay_id": 8274238,
+  "page": "https://pixabay.com/photos/people-tourists-young-people-self-8274238/",
+  "user": "Surprising_Media",
+  "tags": "people, tourists, young people, self, group, happy, smartphone, outdoor, urban, town",
+  "license": "Pixabay Content License"
+ },
+ "apartment_bright": {
+  "file": "public/photos/apartment_bright.jpg",
+  "pixabay_id": 2181968,
+  "page": "https://pixabay.com/photos/chairs-living-room-table-2181968/",
+  "user": "Pexels",
+  "tags": "chairs, living room, table, contemporary, furniture, interior design, room, windows, indoors, table and chairs, home furniture, home, house, house interior, home interior, interior decoration, living room, living room, living room, living room, living room, interior design, interior design, room, room, home, home, house, house, house",
+  "license": "Pixabay Content License"
+ },
+ "desk_bills": {
+  "file": "public/photos/desk_bills.jpg",
+  "pixabay_id": 515984,
+  "page": "https://pixabay.com/photos/office-accounting-economy-accounts-515984/",
+  "user": "Gadini",
+  "tags": "office, accounting, economy, accounts, closure, token, accounting, accounting, accounting, accounting, accounting",
+  "license": "Pixabay Content License"
+ },
+ "calculator_bills": {
+  "file": "public/photos/calculator_bills.jpg",
+  "pixabay_id": 1156121,
+  "page": "https://pixabay.com/photos/calculator-table-invoice-work-pay-1156121/",
+  "user": "Cobanams",
+  "tags": "calculator, table, invoice, work, pay, calculator, calculator, calculator, calculator, invoice, invoice, invoice, invoice, invoice",
+  "license": "Pixabay Content License"
+ },
+ "india_rice": {
+  "file": "public/photos/india_rice.jpg",
+  "pixabay_id": 204139,
+  "page": "https://pixabay.com/photos/rice-fields-gangavati-karnataka-204139/",
+  "user": "sarangib",
+  "tags": "rice fields, gangavati, karnataka, india, paddy, rice paddy, agriculture, rice, farming, harvest, farmland, crop, agricultural, plant, outdoors, landscape, scenery, natural, wild, outdoor, environment, scenic, land, nature, green farm, green rice, rice fields, karnataka, karnataka, india, india, paddy, paddy, paddy, paddy, rice, rice, land, land, land, land, land, Marali, Karnataka, India",
+  "license": "Pixabay Content License"
+ },
+ "india_farmer": {
+  "file": "public/photos/india_farmer.jpg",
+  "pixabay_id": 3467922,
+  "page": "https://pixabay.com/photos/hope-kerala-food-rice-outdoor-3467922/",
+  "user": "nandhukumar",
+  "tags": "hope, kerala, food, rice, outdoor, cultivating, india, green, farmland, life, culture, farm, people, agriculture, countryside, labor, water, farmer, asia, field, nature, outside, environment, cultivation, farming, green food, green hope, green life, green farm, green rice, green culture, green farmer, kerala, kerala, kerala, kerala, kerala, farmer",
+  "license": "Pixabay Content License"
+ }
+}

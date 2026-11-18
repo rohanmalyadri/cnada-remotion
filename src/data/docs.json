@@ -1,0 +1,108 @@
+{
+ "ircc_top": {
+  "img": "docs/ircc_top.png",
+  "w": 1440,
+  "h": 1300,
+  "boxes": {
+   "Building a stronger Canada through a well-managed": [],
+   "380,000 permanent resident admissions for each of the next three years": [
+    [
+     190,
+     740.34375,
+     674.5625,
+     27
+    ]
+   ],
+   "370,000 new temporary resident arrivals": [
+    [
+     833.984375,
+     708.34375,
+     376.65625,
+     27
+    ]
+   ]
+  }
+ },
+ "ircc_200k": {
+  "img": "docs/ircc_200k.png",
+  "w": 1440,
+  "h": 1300,
+  "boxes": {
+   "Time-limited measure to support people already in Canada": [
+    [
+     150,
+     831.71875,
+     754.765625,
+     35
+    ]
+   ],
+   "up to 200,000 people already living in Canada transition to permanent residence": [
+    [
+     196.296875,
+     914.9375,
+     750.53125,
+     27
+    ]
+   ],
+   "workers cohort": [
+    [
+     1172.9375,
+     914.9375,
+     75.71875,
+     27
+    ],
+    [
+     150,
+     946.9375,
+     61.640625,
+     27
+    ]
+   ]
+  }
+ },
+ "housing_title": {
+  "img": "docs/housing_title.png",
+  "w": 1440,
+  "h": 1300,
+  "boxes": {
+   "Immigration and housing prices across municipalities": [
+    [
+     150,
+     267.75,
+     960.59375,
+     49
+    ]
+   ]
+  }
+ },
+ "housing_finding": {
+  "img": "docs/housing_finding.png",
+  "w": 1440,
+  "h": 1300,
+  "boxes": {
+   "was associated with 11% of the rise in both median house values": [
+    [
+     312.578125,
+     788,
+     606.078125,
+     27
+    ]
+   ]
+  }
+ },
+ "isd": {
+  "img": "docs/isd.png",
+  "w": 1440,
+  "h": 1300,
+  "boxes": {
+   "1,350": [
+    [
+     796.109375,
+     828.4375,
+     42.5625,
+     20
+    ]
+   ]
+  }
+ }
+}

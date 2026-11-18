@@ -1,0 +1,186 @@
+CANADA — THE SETTLED BRO ILLUSION
+FACT-CHECK REPORT (prepared 17 Nov 2026)
+====================================================================
+
+Method
+------
+* Every number that appears on screen was checked against a primary source where one
+  was reachable (canada.ca / IRCC, Budget 2026, Statistics Canada releases), otherwise
+  against at least one named secondary source that cites the primary data.
+* The original Telugu narration was NOT changed. Where the narration is outdated,
+  unverified or simplified, the on-screen graphic either (a) shows the verified figure
+  with its date, or (b) labels the figure "as stated in narration" / "estimate".
+* Status codes:  VERIFIED · VERIFIED-SECONDARY · CORRECTED-ON-SCREEN · UNVERIFIED (labelled)
+  · NARRATION-ONLY (not shown as a statistic)
+
+0. Inputs and narration integrity
+---------------------------------
+- Audio duration is 19:24.48 (1164.48 s), not ~20:24 as stated in the brief. The video
+  timeline is exactly 1164.48 s (34,935 frames @ 30 fps).
+- The recorded narration departs from the PDF script in four places (confirmed with an
+  independent Whisper large-v3-turbo transcription of those windows):
+    a) ~5:03 — the paragraph "Asalaina goddali vettu padindhi temporary residents
+       meedha ... 1.55 lakhs daggara aapesaaru" (TR arrivals 673,650 -> 385,000; student
+       quota ~155,000) is NOT spoken. It is therefore not illustrated.
+    b) ~11:04 — "Mississauga loni immigration consultant ... idhi aayana estimate
+       maathrame, official lekka kaadhu ..." is spoken as "oka immigration consultant
+       anchana prakaram ... daadapu sagam mandhi Indians e unnaru" (no city, no caveat).
+       The on-screen card still labels it "One immigration consultant's estimate — not
+       official data".
+    c) ~11:33 — the "committee hearing / 'We don't have that number'" sentence is spoken as
+       "...ani adigithe Canada daggara answer ledhu". On screen: "Canada has no official
+       count." (No quotation is attributed to any person.)
+    d) ~19:12 — the ending is ad-libbed: comment/share call-out, then "Thank you so much
+       for watching, Jai Hind". The sentence about "40 lakhs thappu" and "Canada 2 lakh PR
+       rules publish chesina roju malli kaluddam" are not spoken.
+
+1. The 5 November 2026 announcement / 200,000 measure ............... VERIFIED
+   Source: IRCC backgrounder "Building a stronger Canada through a well-managed,
+   predictable immigration system", canada.ca, 2026-11-05 (captured on screen).
+   - 380,000 permanent resident admissions per year, 2027–2029.               VERIFIED
+   - 370,000 new temporary resident arrivals per year (220,000 workers; up to
+     150,000 international students).                                          VERIFIED
+   - "Time-limited measure" to help up to 200,000 people already living in Canada
+     transition to PR, processed through 2027: workers cohort up to 100,000 (provincial/
+     territorial nominations incl. PNP, and applicants already in certain federal
+     programs); humanitarian cohort up to 100,000 (remaining Hong Kong & Ukraine family
+     pathway applications, approved H&C cases, spouses/partners/children of Canadians and
+     PRs already in Canada).                                                   VERIFIED
+   - It is NOT automatic PR; eligibility rules were not fully published at time of
+     writing. The video says so explicitly ("NOT AUTOMATIC PR", "full rules not yet
+     published").
+   - Note: the narration calls it a "one-time measure"; the official text says
+     "time-limited". On-screen wording uses "time-limited".
+
+2. Study-to-PR era figures
+   - 2022: India No.1 source of new international students, ~226,000.   VERIFIED-SECONDARY
+     (IRCC study-permit data as widely reported; shown as "226,000+").
+   - 2023: ~139,715 Indians became PRs of ~471,800 total (29.6%).       VERIFIED-SECONDARY
+     Narration says "one in four"; on-screen shows 29.6% "more than one in four" —
+     consistent and slightly more precise.
+   - Study-to-PR pathway shown as a common route that depended on eligibility, never a
+     guarantee (explicit footnote on the flowchart).
+   - Citizenship step labelled "3 of 5 years physically present" (IRCC rule).
+
+3. The U-turn
+   - "Until 2024 the target was 5 lakh a year": the Nov 2023 plan set 485,000 (2024) and
+     500,000 for 2025 and 2026. On-screen label: "500,000 / year — target for 2025 & 2026
+     set in the 2023 plan".                                                    VERIFIED
+   - 2024 admissions 483,640.                                                 VERIFIED
+   - 2025 admissions ~393,500 (IRCC preliminary; 393,770 in one count): −18.6% ≈ "19%".
+                                                                              VERIFIED
+   - 2026 target 380,000; held at 380,000 through 2029.                       VERIFIED
+   - PNP raised to 95,000/yr in the 2027–2029 plan (from 92,500).  VERIFIED-SECONDARY
+   - Priority for healthcare, trades, French, Canadian work experience (category-based
+     Express Entry selection).                                                 VERIFIED
+
+4. Why Canada hit the brakes
+   - GTA average house price above C$1M, ~9× family income.          UNVERIFIED (labelled
+     "Narration figure — see fact-check"). GTA averages hovered around C$1.0–1.1M in
+     2024–26 depending on month/source; the 9× ratio could not be matched to a source.
+   - Government study: immigration "associated with 11% of the rise in both median house
+     values ... and median monthly rental rates across municipalities with populations
+     over 1,000", 2006–2021. IRCC/StatCan research, published 20 June 2025.   VERIFIED
+     CAUTION: the study does NOT attribute the remaining 89% to specific causes. The
+     narration's list (interest rates, zoning, investors, under-building) is presented on
+     screen as "factors named in the narration"; the study itself cites supply
+     constraints, low interest rates and speculative investment as other influences.
+   - 54% of Canadians said "too many immigrants" (IRCC telephone tracking survey,
+     Nov 1–28, 2024; 35% Nov 2023; 22% Mar 2023).                             VERIFIED
+   - Youth (15–24) unemployment 14.3% in April 2026 (StatCan LFS).             VERIFIED
+   - Fraser Institute study by a former StatCan chief economist arguing newcomers compete
+     with local youth for entry-level jobs.        UNVERIFIED in detail; presented as an
+     argument, with the counter-view on screen.
+   - Aug 2025: ~74% of Indian study-permit applications refused vs ~32% in Aug 2023;
+     overall ~40% (IRCC data reported by Reuters, Nov 2025).                   VERIFIED-SECONDARY
+   - Fraud graphics use a GENERIC letter design labelled "not a real institution's
+     document".
+
+5. Why Indians took the biggest hit
+   - Jan–Jul 2025: 68,690 Indians granted PR; Jan–Jul 2026: 53,285 (−15,405, −22.4%).
+     Total: 246,580 -> 222,625 (−23,955); Indian share of the cut 64.3%.
+                                                     VERIFIED-SECONDARY (IRCC open data
+                                                     as compiled by several outlets)
+   - New study permits −66% vs 2023; −80%+ Apr 2024 -> Apr 2026.  UNVERIFIED (labelled
+     "Narration figures — see fact-check").
+   - "No rule in the official data targets Indians" — consistent with published IRCC
+     rules; the pipeline graphic is explicitly "illustrative shares".
+   - Diplomatic timeline: Sept 2023 allegation by PM Trudeau in Parliament (VERIFIED);
+     India rejected it and designates Nijjar a terrorist (VERIFIED); diplomats expelled
+     (2023 and Oct 2024) (VERIFIED); visa services suspended Sept 2023 and later partially
+     resumed — "two years frozen" is a simplification (FLAG); Modi invited to the June 2025
+     G7 in Kananaskis (VERIFIED); High Commissioners restored in 2025 (VERIFIED-SECONDARY);
+     Carney visit 27 Feb–2 Mar 2026; US$50B trade goal by 2030 (Modi's framing; Carney
+     cited C$70B) (VERIFIED). The exact phrase "fresh start" was not found ("reset" was
+     used) — not shown on screen.
+   - The video separates diplomacy from immigration policy and does not claim causation.
+
+6. The work-permit cliff
+   - ~1.05M (1,053,000) work permits expired by end-2025; 926,896 work permits/extensions
+     expiring in 2026; 314,538 in Jan–Mar 2026 (ATIP release).   VERIFIED-SECONDARY
+     On-screen Q2–Q4 2026 (~612,000) is arithmetic: 926,896 − 314,538. One card ≈ 5,000.
+   - "Half of those affected are Indian" — a single consultant's estimate (labelled).
+   - Non-permanent residents: ~3.15M peak (Q3 2024) -> ~2.56M (2026).       VERIFIED-SECONDARY
+     Only the two endpoints are plotted (no invented intermediate values).
+   - "30% of the drop moved to PR" — UNVERIFIED (labelled "As stated in narration").
+   - Expiry ≠ automatic loss of status: the "three paths" graphic includes "apply for
+     another status and wait (if eligible)".
+
+7. Life behind the photo
+   - Oct 2026 unemployment 6.7%; youth 13.7% (StatCan LFS, 6 Nov 2026).        VERIFIED
+   - April 2026 student unemployment 16.0% (≈ one in six).                     VERIFIED
+   - Gig platforms 8% vs 1.5% — UNVERIFIED (labelled "As stated in narration").
+   - Toronto one-bedroom median asking rent C$2,150, Sept 2026 (Door Insight via
+     Moving2Canada). Other datasets show ~C$1,950–2,060 averages.         VERIFIED-SECONDARY
+     ₹1.3 lakh conversion uses ~₹62 per CAD (approximate).
+   - 68% of monthly expenses on rent — UNVERIFIED (labelled).
+   - 30% of Canadians struggle with basic expenses — UNVERIFIED (labelled).
+   - Telugu community 80% -> 20% — community estimate (labelled "not official data").
+
+8. From welcome to blame
+   - ISD: posts with anti-South Asian slurs on X up more than 1,350% 2023 -> 2024
+     (ISD Digital Dispatch, April 2025; page captured on screen).             VERIFIED
+   - Wasaga Beach: the narration says "December 2024 fake TikTok". The widely reported
+     viral claims about Wasaga Beach date from summer (July) 2024 and were disputed by
+     the town; no evidence that the video was AI-generated was found. On screen: "2024 ·
+     a viral claim blaming Indians — never substantiated"; the original video is not
+     reproduced.                                                         CORRECTED-ON-SCREEN
+   - "Canada in 2050" AI images by anonymous accounts — described, not reproduced;
+     UNVERIFIED individually.
+   - Komagata Maru, 1914: 376 passengers from British India; most refused entry (only
+     ~24 admitted). Archival photos are public domain / no known restrictions (VPL).
+                                                                              VERIFIED
+
+9. The back door / verdict
+   - Budget 2026 regular levels (380,000 PR, 370,000 TR arrivals to 2029).     VERIFIED
+   - Earlier one-time initiative for up to 33,000 workers: the narration ties it to
+     "rural in-demand sectors". The Nov 2025 plan announced a one-time initiative to
+     transition up to 33,000 work-permit holders; the 2026 backgrounder also refers to an
+     "In-Canada Workers Initiative" (May 2026). The exact link could not be confirmed;
+     on screen only "a separate one-time initiative for up to 33,000 workers" is shown.
+   - "An expert said the 33,000 program raised false hopes" — UNVERIFIED (narration only).
+   - PM Carney defended the measure; opposition leader Pierre Poilievre called it a
+     "disaster" (reporting 6–7 Nov 2026).                                  VERIFIED-SECONDARY
+   - Proof of living funds: narration says ~C$20,600 (the Jan 2024 rule, C$20,635). This
+     is OUTDATED: C$22,895 from 1 Sept 2025 and C$23,448 from 1 Sept 2026 (single
+     applicant, outside Quebec). On screen the progression and the current C$23,448 are
+     shown.                                                             CORRECTED-ON-SCREEN
+   - Germany / New Zealand as alternatives — narration observation, not quantified.
+
+10. Items in the creative brief that are NOT in the narration
+   - D.K. Shivakumar and the Golden Temple are mentioned in the brief but not in the
+     script/narration; they are not shown.
+
+11. Times of India stories (Khammam / Ongole)
+   - The original Times of India articles could not be located through search during
+     production. The video attributes the accounts to The Times of India as the narration
+     does, shows no newspaper page, uses no photograph of the individuals, and states on
+     screen "Identities not published · footage is illustrative of the setting, not the
+     individuals". RECOMMENDATION: confirm the article URL/date before publishing.
+
+Proposed corrected English on-screen lines for review (narration unchanged)
+---------------------------------------------------------------------------
+- "Proof of living funds since 1 Sept 2026: C$23,448 (single applicant, outside Quebec)."
+- "The 11% figure is an association across municipalities (2006–2021), not a sole cause."
+- "Wasaga Beach, 2024: viral claims blaming Indians — never substantiated."
+- "A time-limited measure for up to 200,000 people already in Canada — not automatic PR."
