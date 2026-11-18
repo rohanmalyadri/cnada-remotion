@@ -15,3 +15,4 @@ assets/stock/
 public/stock/
 output/chunks_old/
 output/**/*.mp4
+!output/final_video.mp4
